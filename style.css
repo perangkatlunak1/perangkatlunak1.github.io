@@ -1,0 +1,54 @@
+/* Hunter green = #3E5038 */
+/* Feld Graw = #48583F */
+
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.text-hunter-green {
+  color: #48583F;
+}
+
+.text-feld-graw {
+  color: #48583F;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.btn-custom {
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.btn-custom-red {
+  background-color: #EB1D36;
+  color: white;
+}
+
+.btn-custom-red:hover {
+  background-color: #FA9494;
+  color: white;
+}
+
+.btn-custom-hg {
+  background-color: #48583F;
+  color: white;
+}
+
+.btn-custom-hg:hover {
+  background-color: #3E5038;
+  color: white;
+}
+
+#gallery {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.footer {
+  padding: 15px;
+}
